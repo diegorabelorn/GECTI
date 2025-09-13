@@ -14,6 +14,10 @@ Durante o curso, explorei temas fundamentais como:
 
 **Propriedade Intelectual**: Fui introduzido aos princípios da propriedade intelectual, entendendo sua importância para a proteção de invenções e a criação de valor.
 
+<div align="center">
+  <img src="img/g3.png" alt="Gráfico de desempenho do sistema" width="500"/>
+</div>
+
 **Podcasts de Análise**: Produzi e participei de podcasts sobre filmes e documentários que retratam a inovação, a gestão e a economia:
 
 <u>"The Founder"</u>: Análise sobre a disrupção do modelo de negócios do McDonald's.
@@ -21,9 +25,6 @@ Durante o curso, explorei temas fundamentais como:
 <u>"Gigantes da Indústria"</u>: Estudo sobre o surgimento de impérios industriais.
 
 <u>"Inside Job"</u>: Discussão sobre a crise financeira e a falha de modelos econômicos.
-<div align="center">
-  <img src="img/g3.png" alt="Gráfico de desempenho do sistema" width="500"/>
-</div>
 
 **Apresentação em Evento**: Apresentei o trabalho "COMPLEXIDADE ECONÔMICA DO SEGMENTO DE PRODUTOS MINERAIS E SEUS IMPACTOS NO MERCADO BRASILEIRO" no Encontro Nacional de Propriedade Intelectual (ENPI), consolidando minha pesquisa sobre a economia de minerais no Brasil.
 <div align="center">
