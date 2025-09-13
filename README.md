@@ -26,5 +26,7 @@ Durante o curso, explorei temas fundamentais como:
 </div>
 
 **Apresentação em Evento**: Apresentei o trabalho "COMPLEXIDADE ECONÔMICA DO SEGMENTO DE PRODUTOS MINERAIS E SEUS IMPACTOS NO MERCADO BRASILEIRO" no Encontro Nacional de Propriedade Intelectual (ENPI), consolidando minha pesquisa sobre a economia de minerais no Brasil.
-
+<div align="center">
+  <img src="img/g4.png" alt="Gráfico de desempenho do sistema" width="300"/>
+</div>
 Esta disciplina expandiu minha visão sobre como a inovação é a força motriz do progresso, e como a gestão e a propriedade intelectual são essenciais para traduzir ideias em valor econômico e social
