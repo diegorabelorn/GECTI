@@ -2,7 +2,7 @@
 <div align="center">
   <img src="img/GECTI.png" alt="Gráfico de desempenho do sistema" width="300"/>
 </div>
-Nesta disciplina, mergulhei na interseção entre inovação, economia e a gestão de novas tecnologias. A jornada me permitiu compreender como a pesquisa e o desenvolvimento impulsionam a dinâmica socioeconômica e transformam indústrias inteiras.
+2021.2 - Nesta disciplina, mergulhei na interseção entre inovação, economia e a gestão de novas tecnologias. A jornada me permitiu compreender como a pesquisa e o desenvolvimento impulsionam a dinâmica socioeconômica e transformam indústrias inteiras.
 
 Durante o curso, explorei temas fundamentais como:
 
@@ -24,6 +24,7 @@ Durante o curso, explorei temas fundamentais como:
 <div align="center">
   <img src="img/g3.png" alt="Gráfico de desempenho do sistema" width="500"/>
 </div>
+
 **Apresentação em Evento**: Apresentei o trabalho "COMPLEXIDADE ECONÔMICA DO SEGMENTO DE PRODUTOS MINERAIS E SEUS IMPACTOS NO MERCADO BRASILEIRO" no Encontro Nacional de Propriedade Intelectual (ENPI), consolidando minha pesquisa sobre a economia de minerais no Brasil.
 
 Esta disciplina expandiu minha visão sobre como a inovação é a força motriz do progresso, e como a gestão e a propriedade intelectual são essenciais para traduzir ideias em valor econômico e social
