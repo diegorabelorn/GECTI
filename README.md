@@ -22,7 +22,7 @@ Durante o curso, explorei temas fundamentais como:
 
 <u>"Inside Job"</u>: Discussão sobre a crise financeira e a falha de modelos econômicos.
 <div align="center">
-  <img src="img/GECTI2.png" alt="Gráfico de desempenho do sistema" width="300"/>
+  <img src="img/g3.png" alt="Gráfico de desempenho do sistema" width="300"/>
 </div>
 **Apresentação em Evento**: Apresentei o trabalho "COMPLEXIDADE ECONÔMICA DO SEGMENTO DE PRODUTOS MINERAIS E SEUS IMPACTOS NO MERCADO BRASILEIRO" no Encontro Nacional de Propriedade Intelectual (ENPI), consolidando minha pesquisa sobre a economia de minerais no Brasil.
 
